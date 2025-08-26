@@ -24,7 +24,7 @@ export default function HomePage() {
           </p>
           <Link
             href="/contact"
-            className="hidden md:inline-block bg-yellow-400 text-black px-4 py-2 rounded-lg font-semibold hover:bg-yellow-500 transition"
+            className="md:inline-block bg-yellow-400 text-black px-4 py-2 rounded-lg font-semibold hover:bg-yellow-500 transition"
           >
           Solicita tu proyecto
         </Link>

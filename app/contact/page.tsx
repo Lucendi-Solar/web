@@ -36,7 +36,7 @@ export default function ContactPage() {
       <section className="w-full mb-16 text-center">
         <h1 className="text-4xl font-bold text-blue-500 mb-4">Contáctanos</h1>
         <p className="text-lg text-gray-700">
-          ¿Tienes un proyecto en mente o alguna consulta? Escríbenos y nuestro equipo te responderá a la brevedad.
+          ¿Tienes un proyecto en mente o alguna consulta? Escríbenos y nuestro agente de ventas te responderá a la brevedad.
         </p>
       </section>
 
